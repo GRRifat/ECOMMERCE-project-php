@@ -251,8 +251,8 @@
               ?>
             </ul>
           </li>
-          <li><a href="">ABOUT US</a></li>
-          <li><a href="">CONTACT US</a></li>
+          <li><a href="about.php">ABOUT US</a></li>
+          <li><a href="contact.php">CONTACT US</a></li>
         </ul>
 
         <form method="POST" class="navbar-form navbar-left" action="search.php">
